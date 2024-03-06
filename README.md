@@ -14,7 +14,7 @@ The app allows the restaurants to receive a direct online order from a customer.
 
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Perform the data analysis to find answers to these questions that will help the company to improve the business. 
 
-## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Key EDA Graphs
+## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Sample of EDA Graphs (full EDA in Python script)
 
 **_Most sucessfull restaurants by type of cuisine:_**
 
