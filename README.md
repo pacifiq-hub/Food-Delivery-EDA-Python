@@ -1,4 +1,4 @@
-# Food-Delivery-Business-case (Python)
+# Food-Delivery-Business-Case (Python)
 
 The [_Applied Data Science Program: Leveraging AI for Effective Decision-Making_](https://github.com/pacifiq-hub/Food-Delivery-EDA-Python/blob/main/FoodDeliveryProject_FullCode.ipynb)  is an intensive program covering courses of supervised and unsupervised learning, neural networks, graphs, decision trees, generative AI and recommendation systems focusing on theory, Python coding and application to different industries. It is taught by MIT professors, Munther Dahleh, Caroline Uhler, John N. Tsitsiklis, Stefanie Jegelka and Devavrat Shah. This GitHub repository consolidates my final Python script and main conclusions presented below that I submitted at the beginning of the program as my personal EDA project.  
 
